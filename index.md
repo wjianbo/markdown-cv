@@ -3,16 +3,18 @@ layout: cv
 title: Jianbo Wang's CV
 ---
 # Jianbo Wang
-Physicist, Mathematician, Cambridge professor.
-
 <div id="webaddress">
-<a href="isaac@applesdofall.org">jnb.wang@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jnb.wang@gmail.com">jnb.wang@gmail.com</a>
+  |<a href="https://github.com/wjianbo">GitHub profile</a>
 </div>
 
 
-## Currently
+## Experience
 
+`2020 - present`
+__SE, Agile-Tech Co. Ltd., Japan__
+
+- Master of Translation and Interpritaton, Majoring in Japanese-Chinese Interpritation
 Standing on the shoulders of giants
 
 ### Specialized in
@@ -30,12 +32,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `2010 - 2012`
 __Beijing  International Studies University, China__
 
-- Majoring in Japanese-Chinese Interpritation(MTI)
+- Master of Translation and Interpritaton, Majoring in Japanese-Chinese Interpritation
 
 `2005 - 2009`
 __Shanghai Jiao Tong University, China__
 
-- Majoring in Japanese
+- Bachelor of Arts, Majoring in Japanese
 
 
 
