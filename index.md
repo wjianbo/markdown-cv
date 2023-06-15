@@ -5,7 +5,7 @@ title: Jianbo Wang's CV
 # Jianbo Wang
 <div id="webaddress">
 <a href="jnb.wang@gmail.com">jnb.wang@gmail.com</a>
-  |<a href="https://github.com/wjianbo">GitHub profile</a>|
+  |<a href="https://github.com/wjianbo">GitHub profile</a>
 </div>
 
 
